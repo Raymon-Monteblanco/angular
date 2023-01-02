@@ -1,0 +1,21 @@
+.body {
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    align-items: center;
+    background: #ff6480;
+}
+
+.login {
+    width: 100%;
+    max-width: 330px;
+    text-align: center;
+}
+
+.ancho {
+    width: 100%;
+}
+
+
+
+
